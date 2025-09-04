@@ -45,7 +45,7 @@ st.markdown(
 # -----------------------
 # Header
 # -----------------------
-st.markdown("<h1 style='text-align: center; color:yellow;'></h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color:yellow;'>PaperPulse</h1>", unsafe_allow_html=True)
 st.markdown(
     """
     <p style='text-align: center; color:white;'>
@@ -81,7 +81,7 @@ with col3:
 with col4:
     st.link_button(
         "Back to Website",
-        "https://chiragcbsc.wixsite.com/chiragaiportfolio-1",
+        "https://portfolio-5aa32iczs-adityas-projects-d6de9cbc.vercel.app/projects/planetfall",
         use_container_width=True,
     )
 
