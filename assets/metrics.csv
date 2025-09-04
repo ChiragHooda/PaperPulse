@@ -1,0 +1,9 @@
+Metric,Score
+accuracy,88.468558
+precision,0.884767
+recall,0.884686
+f1,0.883013
+accuracy,72.183238
+precision,0.718647
+recall,0.721832
+f1,0.698925
