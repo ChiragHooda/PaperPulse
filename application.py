@@ -45,11 +45,11 @@ st.markdown(
 # -----------------------
 # Header
 # -----------------------
-st.markdown("<h1 style='text-align: center; color:yellow;'>SkimLit</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color:yellow;'></h1>", unsafe_allow_html=True)
 st.markdown(
     """
     <p style='text-align: center; color:white;'>
-    SkimLit is a tool to summarize biomedical research abstracts.  
+    PaperPulse is a tool to summarize biomedical research abstracts.  
     It is trained on 20,000 PubMed abstracts and classifies text into 5 categories:  
     <b>BACKGROUND, OBJECTIVE, METHOD, RESULT, CONCLUSION</b>.
     </p>
